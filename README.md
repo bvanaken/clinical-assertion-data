@@ -2,9 +2,20 @@
 
 This repository contains the assertion data introduced in our paper: [Assertion Detection in Clinical Notes: Medical Language Models to the Rescue?](https://www.aclweb.org/anthology/2021.nlpmc-1.5/), NLPMC @ NAACL 2021.
 
+## Assertion Labels
+
+We release 5,000 assertion labels manually annotated based on clinical notes from the MIMIC-III database. The table below shows the distribution of labels for the different note types.
+
+| | PRESENT | POSSIBLE | ABSENT |
+| --- | --- | --- | --- |
+| Discharge Summaries | 2,610 | 250 | 980 |
+| Physician Letters | 204 | 34 | 66 |
+| Nurse Letters | 293 | 14 | 59 |
+| Radiology Reports | 295 | 67 | 138 |
+
 ## Creating sample files
 
-We release 5,000 assertions annotated within clinical notes from the MIMIC-III database. To use the data, you need to have access to the MIMIC-III database, which is freely available after completing the steps described here: https://mimic.mit.edu/iv/access/. 
+In order to use our data, you need to have access to the MIMIC-III database, which is freely available after completing the steps described here: https://mimic.mit.edu/iv/access/. 
 
 To create training samples from our label files, simply follow these steps:
 
