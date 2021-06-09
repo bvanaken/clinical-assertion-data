@@ -2,6 +2,8 @@
 
 This repository contains the assertion data introduced in our paper: [Assertion Detection in Clinical Notes: Medical Language Models to the Rescue?](https://www.aclweb.org/anthology/2021.nlpmc-1.5/), NLPMC @ NAACL 2021.
 
+You can also try out how the best model performs by using our [demo application](https://ehr-assertion-detection.demo.datexis.com/).
+
 ## Assertion Labels
 
 We release 5,000 assertion labels manually annotated based on clinical notes from the MIMIC-III database. The table below shows the distribution of labels for the different note types.
