@@ -13,7 +13,7 @@ We release 5,000 assertion labels manually annotated based on clinical notes fro
 | Discharge Summaries | 2,610 | 250 | 980 |
 | Physician Letters | 204 | 34 | 66 |
 | Nurse Letters | 293 | 14 | 59 |
-| Radiology Reports | 295 | 67 | 138 |
+| Radiology Reports | 285 | 67 | 138 |
 
 ## Creating sample files
 
