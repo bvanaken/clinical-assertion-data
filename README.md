@@ -2,7 +2,9 @@
 
 This repository contains the assertion data introduced in our paper: [Assertion Detection in Clinical Notes: Medical Language Models to the Rescue?](https://www.aclweb.org/anthology/2021.nlpmc-1.5/), NLPMC @ NAACL 2021.
 
-You can also try out how the best model performs by using our [demo application](https://ehr-assertion-detection.demo.datexis.com/).
+You can also try out how our best model performs in our [demo application](https://ehr-assertion-detection.demo.datexis.com/).
+
+The model is also available on the Huggingface model hub: https://huggingface.co/bvanaken/clinical-assertion-negation-bert
 
 ## Assertion Labels
 
