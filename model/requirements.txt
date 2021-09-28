@@ -1,0 +1,4 @@
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz
+scispacy==0.4.0
+torch==1.9.1
+transformers==4.10.3
